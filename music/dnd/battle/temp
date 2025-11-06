@@ -16,48 +16,63 @@ playlist = {
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Ballad%20of%20the%20Goddess%20(Remix)%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "Mario & Luigi Brothership battle theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Battle%20Theme%20EXTENDED%20Mario%20&%20Luigi%20Brothership.mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "Battle from Storm Hill",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Battle%20fom%20Storm%20Hill%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "Bayonetta 2 - Aesir",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta%202%20-%20Battle%20OST%2022%20-%20Aesir%20%5Bj5ea4FExJMg%5D.mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "Bayonetta 3 - Singularity Balance",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta%203%20Soundtrack%20-Singularity%20Balance.mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "Bayonetta - The Greatest Jubilee",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta%20Soundtrack_%20The%20Greatest%20Jubilee%20(Final%20Boss%20Theme).mp3"
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "",
+    url = ""
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "",
+    url = ""
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
-  },
-v
-  {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "",
+    url = ""
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "",
+    url = ""
   },
   {
-    title = "Roar of Dedede",
-    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+    title = "",
+    url = ""
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
+    title = "",
+    url = ""
   },
 }
