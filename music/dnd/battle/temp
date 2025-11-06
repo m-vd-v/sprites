@@ -72,39 +72,23 @@ playlist = {
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Fantasy%20VII%20OST%20-%20Those%20Who%20FightBattle%20Theme.mp3"
   },
   {
-    title = "",
-    url = ""
+    title = "FF VIII - Force Your Way",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Fantasy%20VIII%20OST%20-%2010.%20Force%20Your%20Way.mp3"
   },
   {
-    title = "",
-    url = ""
+    title = "Final Fantasy XVI - Battle Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Fantasy%20XVI%20OST%20-%20Battle%20Theme.mp3"
   },
   {
-    title = "",
-    url = ""
+    title = "IE GO CS - Oppression by a Great Opponent",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20GO%20Chrono%20Stones%20(Anime)%20-%20OST%2009_%20Oppression%20by%20a%20Great%20Opponent!%20(Official%20HQ).mp3"
   },
   {
-    title = "",
-    url = ""
+    title = "IE GO CS - Incarnation of Tenma",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20Go%20Chrono%20Stone%20OST%20-%20Incarnation%20Of%20Tenma.mp3"
   },
   {
-    title = "",
-    url = ""
-  },
-  {
-    title = "",
-    url = ""
-  },
-  {
-    title = "",
-    url = ""
-  },
-  {
-    title = "",
-    url = ""
-  },
-  {
-    title = "",
-    url = ""
+    title = "Inazuma Eleven 3 - Blast",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma11%20OST%203%20-%20Blast.mp3"
   },
 }
