@@ -1,1 +1,11 @@
+playlist = {
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Oppression of the enemy",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20GO%20Chrono%20Stones%20(Anime)%20-%20OST%2009_%20Oppression%20by%20a%20Great%20Opponent!%20(Official%20HQ).mp3"
+  },
 
+}
