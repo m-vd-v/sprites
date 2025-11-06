@@ -36,8 +36,40 @@ playlist = {
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta%20Soundtrack_%20The%20Greatest%20Jubilee%20(Final%20Boss%20Theme).mp3"
   },
   {
-    title = "",
-    url = ""
+    title = "Boss Theme Medley - Kirby",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Boss%20Theme%20Medley%20(Kirby%20Series)%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+  },
+  {
+    title = "Bowser Jr. SMGalaxy",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bowser%20Jr.%20-%20Super%20Mario%20Galaxy.mp3"
+  },
+  {
+    title = "Calamity Ganon Second Form",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Calamity%20Ganon%20Battle%20-%20Second%20Form%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
+    title = "Colgera Battle",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Colgera%20Battle%20(Legend%20of%20Zelda_%20Tears%20of%20the%20Kingdom)%20EPIC%20VERSION.mp3"
+  },
+  {
+    title = "Gangplank Galleon bananza",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Donkey%20Kong%20Bananza%20OST%20-%20Gangplank%20Galleon%20(Extended).mp3"
+  },
+  {
+    title = "Dragon Ball Z Battle Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Dragon%20ball%20Z%20soundtrack%20Battle%20theme%20(Fight%20music).mp3"
+  },
+  {
+    title = "FE 3 Houses - Tearing Through Heaven",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/FE%20Three%20Houses%20OST%20-%2010.%20Tearing%20Through%20Heaven%20(Rain).mp3"
+  },
+  {
+    title = "Final Bowser Battle",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Bowser%20Battle%20-%20Super%20Mario%20Galaxy.mp3"
+  },
+  {
+    title = "Final Fanatasy VII - Those Who Fight",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Fantasy%20VII%20OST%20-%20Those%20Who%20FightBattle%20Theme.mp3"
   },
   {
     title = "",
