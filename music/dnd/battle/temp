@@ -1,11 +1,63 @@
 playlist = {
   {
+    title = "0 Battle Super Smash Bros Brawl",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/0%20Battle%20Super%20Smash%20Bros%20Brawl.mp3"
+  },
+  {
+    title = "Ruder Buster",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/11.%20Ruder%20Buster%20(DELTARUNE%20Chapter%2034%20Soundtrack)%20-%20Toby%20Fox.mp3"
+  },
+  {
+    title = "Attack and Run!",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Attack%20and%20Run!%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
+    title = "Ballad of the Godess",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Ballad%20of%20the%20Goddess%20(Remix)%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
     title = "Roar of Dedede",
     url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
   },
   {
-    title = "Oppression of the enemy",
-    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20GO%20Chrono%20Stones%20(Anime)%20-%20OST%2009_%20Oppression%20by%20a%20Great%20Opponent!%20(Official%20HQ).mp3"
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
   },
-
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+v
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
+  {
+    title = "Roar of Dedede",
+    url = "https://steamusercontent-a.akamaihd.net/ugc/14938781487312227143/59223E784CAE8D05018DB33EEC888A8447E55A6A/"
+  },
 }
