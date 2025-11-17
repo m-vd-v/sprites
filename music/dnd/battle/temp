@@ -91,4 +91,92 @@ playlist = {
     title = "Inazuma Eleven 3 - Blast",
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma11%20OST%203%20-%20Blast.mp3"
   },
+  {
+    title = "Super Mario Bros 3 - King Bowser",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/King%20Bowser%20-%20Super%20Mario%20Bros%203%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
+    title = "SSB Brawl - King Dedede's Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/King%20Dedede's%20Theme%20Super%20Smash%20Bros%20Brawl.mp3"
+  },
+  {
+    title = "Kirby - Here Come The Squeaks!",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Kirby%20Squeak%20Squad%20-%20Here%20Come%20The%20Squeaks!%20(ska-punk%20cover).mp3"
+  },
+  {
+    title = "SSB Ultimate - Meta Knight's Revenge",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Meta%20Knight's%20Revenge%20Super%20Smash%20Bros%20Ultimate%20(Copyright%20free).mp3"
+  },
+  {
+    title = "Monster Hunter Gen. - Glavenus Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Monster%20Hunter%20Generations%20Ultimate%20OST_%20Glavenus%20Theme%20%E3%83%87%E3%82%A3%E3%83%8E%E3%83%90%E3%83%AB%E3%83%89%20BGM%20%5BHQ%204K%5D.mp3"
+  },
+  {
+    title = "Monster Hunter World - Rototen Vale Battle Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Monster%20Hunter%20World%20OST_%20Rotten%20Vale%20Battle%20Theme%20%E7%A6%81%E6%96%AD%E3%81%AE%E5%9C%B0%E3%81%B8%E3%81%A8%E8%AA%98%E3%81%86%E7%8D%A3%E3%82%89%E3%81%AE%E5%9B%81%E3%81%8D%20%5BHQ%204K%5D.mp3"
+  },
+  {
+    title = "Nederlands Volkslied Boss Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/National%20Anthem%20of%20the%20Netherlands%20but%20it's%20a%20boss%20theme.mp3"
+  },
+  {
+    title = "Nintendo Switch Presentation 2017 Super Smash Bros Ultimate OST",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Nintendo%20Switch%20Presentation%202017%20Trailer%20BGM%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
+    title = "One Piece - Katakuri's Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20-%20Katakuri%20Theme%20(HQ%20Cover).mp3"
+  },
+  {
+    title = "One Piece - Let's Battle [extended]",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20-%20Lets%20Battle%20%5BExtended%20Version%5D.mp3"
+  },
+  {
+    title = "One Piece - Luffy's Fierce Attack",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20OST%20-%20Luffy%20Fierce%20Attack%20(Extended).mp3"
+  },
+  {
+    title = "One Piece - The Very Very Very Strongest",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20OST%20The%20Very%20Very%20Very%20Strongest%20extended.mp3"
+  },
+  {
+    title = "One Piece - Let's Battle",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20Soundtrack%20-%20Lets%20Battle.mp3"
+  },
+  {
+    title = "Pokemon SV - Tera Raid Battle Music",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Pok%C3%A9mon%20Scarlet%20&%20Violet%20-%20Tera%20Raid%20Battle%20Music%20(HQ).mp3"
+  },
+  {
+    title = "Kirby and the Forgotten Land - Roar of Dedede",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Roar%20of%20Dedede%20-%20Kirby%20and%20the%20Forgotten%20Land%20OST%20%5B050%5D.mp3"
+  },
+  {
+    title = "Deltarune - Rude Buster",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Rude%20Buster.mp3"
+  },
+  {
+    title = "Shrek 2 - Holding Out For a Hero",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Shrek%202%20Soundtrack%2014.%20Jennifer%20Saunders%20-%20Holding%20Out%20For%20a%20Hero.mp3"
+  },
+  {
+    title = "SSB Brawl - The Legendary Air Ride Machine",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/The%20Legendary%20Air%20Ride%20Machine%20Super%20Smash%20Bros%20Brawl.mp3"
+  },
+  {
+    title = "SSB Ultimate - Tough Guy Alert",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Tough%20Guy%20Alert_%20-%20Super%20Smash%20Bros%20Ultimate%20OST%20%5BY1VdSJmpIvw%5D.mp3"
+  },
+  {
+    title = "SSB Ultimate - VS. Ridley",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/VS.%20Ridley%20-%20Super%20Smash%20Bros%20Ultimate%20OST.mp3"
+  },
+  {
+    title = "SSB Ultimate - VS. Marx",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Vs.%20Marx%20-%20Super%20Smash%20Bros.%20Ultimate.mp3"
+  },
+  {
+    title = "What Planet Is This!",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/What%20Planet%20Is%20This_!.mp3"
+  },
 }
