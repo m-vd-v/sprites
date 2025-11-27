@@ -1,1 +1,6 @@
-steen muziek
+playlist = {
+  {
+    title = "",
+    url = ""
+  },
+}
