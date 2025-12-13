@@ -179,4 +179,8 @@ playlist = {
     title = "What Planet Is This!",
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/What%20Planet%20Is%20This_!.mp3"
   },
+  {
+    title = "Inazuma Eleven GOSC - Battle! Fighting Spirit",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20GO%20Chrono%20Stone%20OST%20-%20Battle!%20Fighting%20Spirit.mp3"
+  },
 }
