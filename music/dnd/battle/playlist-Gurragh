@@ -1,5 +1,29 @@
 playlist = {
   {
+    title = "Roar of Dedede",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Roar%20of%20Dedede%20-%20Kirby%20and%20the%20Forgotten%20Land%20OST%20%5B050%5D.mp3"
+  },
+  {
+    title = "One Piece - Katakuri's Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20-%20Katakuri%20Theme%20(HQ%20Cover).mp3"
+  },
+  {
+    title = "FE3H - Tearing Through Heaven",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/FE%20Three%20Houses%20OST%20-%2010.%20Tearing%20Through%20Heaven%20(Rain).mp3"
+  },
+  {
+    title = "FFXVI - Battle Theme",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final%20Fantasy%20XVI%20OST%20-%20Battle%20Theme.mp3"
+  },
+  {
+    title = "One Piece - Let's Battle",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20-%20Lets%20Battle%20%5BExtended%20Version%5D.mp3"
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
     title = "",
     url = ""
   },
