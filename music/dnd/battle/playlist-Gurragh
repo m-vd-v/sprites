@@ -20,6 +20,14 @@ playlist = {
     url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One%20Piece%20-%20Lets%20Battle%20%5BExtended%20Version%5D.mp3"
   },
   {
+    title = "Inazuma Eleven GOCS - Oppression of the Enemy",
+    url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma%20Eleven%20GO%20Chrono%20Stones%20(Anime)%20-%20OST%2009_%20Oppression%20by%20a%20Great%20Opponent!%20(Official%20HQ).mp3"
+  },
+  {
+    title = "",
+    url = ""
+  },
+  {
     title = "",
     url = ""
   },
