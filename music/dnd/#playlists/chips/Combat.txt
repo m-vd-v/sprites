@@ -1,0 +1,156 @@
+playlist = {
+	{
+		title = "0_Battle_Super_Smash_Bros_Brawl.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/0_Battle_Super_Smash_Bros_Brawl.mp3"
+	},	{
+		title = "11._Ruder_Buster_(DELTARUNE_Chapter_34_Soundtrack)_-_Toby_Fox.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/11._Ruder_Buster_(DELTARUNE_Chapter_34_Soundtrack)_-_Toby_Fox.mp3"
+	},	{
+		title = "Attack_and_Run_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Attack_and_Run_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "Ballad_of_the_Goddess_(Remix)_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Ballad_of_the_Goddess_(Remix)_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "Battle_Cats_Music__Battle_Theme_1_Default.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Battle_Cats_Music__Battle_Theme_1_Default.mp3"
+	},	{
+		title = "Battle_fom_Storm_Hill_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Battle_fom_Storm_Hill_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "Battle_Theme_EXTENDED_Mario__Luigi_Brothership.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Battle_Theme_EXTENDED_Mario__Luigi_Brothership.mp3"
+	},	{
+		title = "Bayonetta_2_-_Battle_OST_22_-_Aesir_(j5ea4FExJMg).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta_2_-_Battle_OST_22_-_Aesir_(j5ea4FExJMg).mp3"
+	},	{
+		title = "Bayonetta_3_Soundtrack_-Singularity_Balance.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta_3_Soundtrack_-Singularity_Balance.mp3"
+	},	{
+		title = "Bayonetta_Soundtrack__The_Greatest_Jubilee_(Final_Boss_Theme).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bayonetta_Soundtrack__The_Greatest_Jubilee_(Final_Boss_Theme).mp3"
+	},	{
+		title = "Boss_Theme_Medley_(Kirby_Series)_-_Super_Smash_Bros._Brawl.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Boss_Theme_Medley_(Kirby_Series)_-_Super_Smash_Bros._Brawl.mp3"
+	},	{
+		title = "Bowser_Jr._-_Super_Mario_Galaxy.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Bowser_Jr._-_Super_Mario_Galaxy.mp3"
+	},	{
+		title = "Calamity_Ganon_Battle_-_Second_Form_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Calamity_Ganon_Battle_-_Second_Form_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "Colgera_Battle_(Legend_of_Zelda__Tears_of_the_Kingdom)_EPIC_VERSION.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Colgera_Battle_(Legend_of_Zelda__Tears_of_the_Kingdom)_EPIC_VERSION.mp3"
+	},	{
+		title = "Darkest_Dungeon_-_Combat_in_the_Ruins.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Darkest_Dungeon_-_Combat_in_the_Ruins.mp3"
+	},	{
+		title = "Donkey_Kong_Bananza_OST_-_Gangplank_Galleon_(Extended).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Donkey_Kong_Bananza_OST_-_Gangplank_Galleon_(Extended).mp3"
+	},	{
+		title = "Dragon_ball_Z_soundtrack_Battle_theme_(Fight_music).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Dragon_ball_Z_soundtrack_Battle_theme_(Fight_music).mp3"
+	},	{
+		title = "FE_Three_Houses_OST_-_10._Tearing_Through_Heaven_(Rain).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/FE_Three_Houses_OST_-_10._Tearing_Through_Heaven_(Rain).mp3"
+	},	{
+		title = "Final_Bowser_Battle_-_Super_Mario_Galaxy.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final_Bowser_Battle_-_Super_Mario_Galaxy.mp3"
+	},	{
+		title = "Final_Fantasy_VIII_OST_-_10._Force_Your_Way.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final_Fantasy_VIII_OST_-_10._Force_Your_Way.mp3"
+	},	{
+		title = "Final_Fantasy_VII_OST_-_Those_Who_FightBattle_Theme.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final_Fantasy_VII_OST_-_Those_Who_FightBattle_Theme.mp3"
+	},	{
+		title = "Final_Fantasy_XVI_OST_-_Battle_Theme.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Final_Fantasy_XVI_OST_-_Battle_Theme.mp3"
+	},	{
+		title = "Inazuma11_OST_3_-_Blast.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma11_OST_3_-_Blast.mp3"
+	},	{
+		title = "Inazuma_Eleven_GO_Chrono_Stones_(Anime)_-_OST_09__Oppression_by_a_Great_Opponent_(Official_HQ).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma_Eleven_GO_Chrono_Stones_(Anime)_-_OST_09__Oppression_by_a_Great_Opponent_(Official_HQ).mp3"
+	},	{
+		title = "Inazuma_Eleven_GO_Chrono_Stone_OST_-_Battle_Fighting_Spirit.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma_Eleven_GO_Chrono_Stone_OST_-_Battle_Fighting_Spirit.mp3"
+	},	{
+		title = "Inazuma_Eleven_Go_Chrono_Stone_OST_-_Incarnation_Of_Tenma.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma_Eleven_Go_Chrono_Stone_OST_-_Incarnation_Of_Tenma.mp3"
+	},	{
+		title = "Inazuma_Eleven_Victory_Road_OST_-_Zanark_Outsiders.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Inazuma_Eleven_Victory_Road_OST_-_Zanark_Outsiders.mp3"
+	},	{
+		title = "King_Bowser_-_Super_Mario_Bros_3_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/King_Bowser_-_Super_Mario_Bros_3_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "King_Dededes_Theme_Super_Smash_Bros_Brawl.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/King_Dededes_Theme_Super_Smash_Bros_Brawl.mp3"
+	},	{
+		title = "Kirby_Squeak_Squad_-_Here_Come_The_Squeaks_(ska-punk_cover).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Kirby_Squeak_Squad_-_Here_Come_The_Squeaks_(ska-punk_cover).mp3"
+	},	{
+		title = "Meta_Knights_Revenge_Super_Smash_Bros_Ultimate_(Copyright_free).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Meta_Knights_Revenge_Super_Smash_Bros_Ultimate_(Copyright_free).mp3"
+	},	{
+		title = "Monster_Hunter_Generations_Ultimate_OST__Glavenus_Theme__BGM_(HQ_4K).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Monster_Hunter_Generations_Ultimate_OST__Glavenus_Theme__BGM_(HQ_4K).mp3"
+	},	{
+		title = "Monster_Hunter_World_OST__Rotten_Vale_Battle_Theme__(HQ_4K).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Monster_Hunter_World_OST__Rotten_Vale_Battle_Theme__(HQ_4K).mp3"
+	},	{
+		title = "National_Anthem_of_the_Netherlands_but_its_a_boss_theme.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/National_Anthem_of_the_Netherlands_but_its_a_boss_theme.mp3"
+	},	{
+		title = "Nintendo_Switch_Presentation_2017_Trailer_BGM_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Nintendo_Switch_Presentation_2017_Trailer_BGM_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "One_Piece_-_Katakuri_Theme_(HQ_Cover).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One_Piece_-_Katakuri_Theme_(HQ_Cover).mp3"
+	},	{
+		title = "One_Piece_-_Lets_Battle_(Extended_Version).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One_Piece_-_Lets_Battle_(Extended_Version).mp3"
+	},	{
+		title = "One_Piece_OST_-_Luffy_Fierce_Attack_(Extended).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One_Piece_OST_-_Luffy_Fierce_Attack_(Extended).mp3"
+	},	{
+		title = "One_Piece_OST_The_Very_Very_Very_Strongest_extended.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One_Piece_OST_The_Very_Very_Very_Strongest_extended.mp3"
+	},	{
+		title = "One_Piece_Soundtrack_-_Lets_Battle.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/One_Piece_Soundtrack_-_Lets_Battle.mp3"
+	},	{
+		title = "playlist",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/playlist"
+	},	{
+		title = "playlist-Gurragh",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/playlist-Gurragh"
+	},	{
+		title = "Pokmon_Scarlet__Violet_-_Tera_Raid_Battle_Music_(HQ).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Pokmon_Scarlet__Violet_-_Tera_Raid_Battle_Music_(HQ).mp3"
+	},	{
+		title = "Roar_of_Dedede_-_Kirby_and_the_Forgotten_Land_OST_(050).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Roar_of_Dedede_-_Kirby_and_the_Forgotten_Land_OST_(050).mp3"
+	},	{
+		title = "Rude_Buster.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Rude_Buster.mp3"
+	},	{
+		title = "Shrek_2_Soundtrack_14._Jennifer_Saunders_-_Holding_Out_For_a_Hero.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Shrek_2_Soundtrack_14._Jennifer_Saunders_-_Holding_Out_For_a_Hero.mp3"
+	},	{
+		title = "The_Legendary_Air_Ride_Machine_Super_Smash_Bros_Brawl.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/The_Legendary_Air_Ride_Machine_Super_Smash_Bros_Brawl.mp3"
+	},	{
+		title = "Tough_Guy_Alert__-_Super_Smash_Bros_Ultimate_OST_(Y1VdSJmpIvw).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Tough_Guy_Alert__-_Super_Smash_Bros_Ultimate_OST_(Y1VdSJmpIvw).mp3"
+	},	{
+		title = "Vs._Marx_-_Super_Smash_Bros._Ultimate.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/Vs._Marx_-_Super_Smash_Bros._Ultimate.mp3"
+	},	{
+		title = "VS._Ridley_-_Super_Smash_Bros_Ultimate_OST.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/VS._Ridley_-_Super_Smash_Bros_Ultimate_OST.mp3"
+	},	{
+		title = "What_Planet_Is_This_.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/battle/What_Planet_Is_This_.mp3"
+	},
+}
