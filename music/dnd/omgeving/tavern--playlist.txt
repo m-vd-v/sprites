@@ -1,0 +1,6 @@
+playlist = {
+	{
+		title = "Pokemon_Sun__Moon_OST_Hauoli_City_(Night)_Music.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\tavern/Pokemon_Sun__Moon_OST_Hauoli_City_(Night)_Music.mp3"
+	},
+}

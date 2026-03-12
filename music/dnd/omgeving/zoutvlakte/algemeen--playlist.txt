@@ -1,0 +1,12 @@
+playlist = {
+	{
+		title = "Battlerock_Galaxy_-_Super_Mario_Galaxy_Music_-_Extended.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\zoutvlakte\algemeen/Battlerock_Galaxy_-_Super_Mario_Galaxy_Music_-_Extended.mp3"
+	},	{
+		title = "Beach_Bowl_Galaxy_theme_but_in_minor.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\zoutvlakte\algemeen/Beach_Bowl_Galaxy_theme_but_in_minor.mp3"
+	},	{
+		title = "DKs_Stone_Statue_-_Mario_Party_DS_Soundtack_(juDCgO-HHOM).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\zoutvlakte\algemeen/DKs_Stone_Statue_-_Mario_Party_DS_Soundtack_(juDCgO-HHOM).mp3"
+	},
+}

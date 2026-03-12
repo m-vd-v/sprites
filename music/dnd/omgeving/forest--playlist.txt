@@ -1,0 +1,6 @@
+playlist = {
+	{
+		title = "The_Legend_of_Zelda_Breath_of_the_Wild_Korok_Forest_(Day).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\forest/The_Legend_of_Zelda_Breath_of_the_Wild_Korok_Forest_(Day).mp3"
+	},
+}

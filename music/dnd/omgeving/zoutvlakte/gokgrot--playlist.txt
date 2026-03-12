@@ -1,0 +1,9 @@
+playlist = {
+	{
+		title = "Magma_Mine_Mario_Party_9.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\zoutvlakte\gokgrot/Magma_Mine_Mario_Party_9.mp3"
+	},	{
+		title = "specialist.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\zoutvlakte\gokgrot/specialist.mp3"
+	},
+}
