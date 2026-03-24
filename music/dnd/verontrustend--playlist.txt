@@ -1,12 +1,12 @@
 playlist = {
 	{
 		title = "Inazuma_Eleven_OST_-_1_piece_19_Mystery.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\verontrustend/Inazuma_Eleven_OST_-_1_piece_19_Mystery.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/verontrustend/Inazuma_Eleven_OST_-_1_piece_19_Mystery.mp3"
 	},	{
 		title = "Inazuma_Eleven_OST_-_1_piece_21_Black_Shadow_The_Theme_of_Kageyama_(HL0TBMtHMYM).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\verontrustend/Inazuma_Eleven_OST_-_1_piece_21_Black_Shadow_The_Theme_of_Kageyama_(HL0TBMtHMYM).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/verontrustend/Inazuma_Eleven_OST_-_1_piece_21_Black_Shadow_The_Theme_of_Kageyama_(HL0TBMtHMYM).mp3"
 	},	{
 		title = "Inazuma_Eleven_OST_16_A_Creeping_Peal_of_Thunder.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\verontrustend/Inazuma_Eleven_OST_16_A_Creeping_Peal_of_Thunder.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/verontrustend/Inazuma_Eleven_OST_16_A_Creeping_Peal_of_Thunder.mp3"
 	},
 }

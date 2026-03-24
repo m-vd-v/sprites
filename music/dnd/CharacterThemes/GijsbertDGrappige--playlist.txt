@@ -1,0 +1,6 @@
+playlist = {
+	{
+		title = "One_Piece_Soundtrack_-_Diable_Jambe_(3_Ost_Mix).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/CharacterThemes/GijsbertDGrappige/One_Piece_Soundtrack_-_Diable_Jambe_(3_Ost_Mix).mp3"
+	},
+}

@@ -1,12 +1,12 @@
 playlist = {
 	{
 		title = "Eterna_City__Celestic_Town_(Day)(Pokmon__Diamond__Pearl).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\plains/Eterna_City__Celestic_Town_(Day)(Pokmon__Diamond__Pearl).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/plains/Eterna_City__Celestic_Town_(Day)(Pokmon__Diamond__Pearl).mp3"
 	},	{
 		title = "Inazuma11_OST_1_-_Unmotivated_club_Members_(Anime_ver.).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\plains/Inazuma11_OST_1_-_Unmotivated_club_Members_(Anime_ver.).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/plains/Inazuma11_OST_1_-_Unmotivated_club_Members_(Anime_ver.).mp3"
 	},	{
 		title = "South_Cirrus_Town_(bg50040)_-_Inazuma_Eleven__Victory_Road_Story_Mode_OST_Music_HQ_inazuma.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\plains/South_Cirrus_Town_(bg50040)_-_Inazuma_Eleven__Victory_Road_Story_Mode_OST_Music_HQ_inazuma.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/plains/South_Cirrus_Town_(bg50040)_-_Inazuma_Eleven__Victory_Road_Story_Mode_OST_Music_HQ_inazuma.mp3"
 	},
 }

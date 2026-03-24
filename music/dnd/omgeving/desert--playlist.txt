@@ -1,9 +1,9 @@
 playlist = {
 	{
 		title = "Gerudo_Valley_Remix_Super_Smash_Bros_Ultimate_1080p.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\desert/Gerudo_Valley_Remix_Super_Smash_Bros_Ultimate_1080p.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/desert/Gerudo_Valley_Remix_Super_Smash_Bros_Ultimate_1080p.mp3"
 	},	{
 		title = "Stow_on_Side_-_Pokmon_Sword_and_Shield_(OST).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\desert/Stow_on_Side_-_Pokmon_Sword_and_Shield_(OST).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/desert/Stow_on_Side_-_Pokmon_Sword_and_Shield_(OST).mp3"
 	},
 }

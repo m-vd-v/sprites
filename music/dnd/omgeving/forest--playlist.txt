@@ -1,6 +1,21 @@
 playlist = {
 	{
+		title = "Beware_the_Forests_Mushrooms_-_Super_Mario_RPG.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/Beware_the_Forests_Mushrooms_-_Super_Mario_RPG.mp3"
+	},	{
+		title = "Chrono_Trigger__Secret_of_the_Forest_(Original).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/Chrono_Trigger__Secret_of_the_Forest_(Original).mp3"
+	},	{
+		title = "Pikmin_Music__The_Forest_of_Hope.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/Pikmin_Music__The_Forest_of_Hope.mp3"
+	},	{
+		title = "Pokemon_Platinum_OST__Eterna_Forest.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/Pokemon_Platinum_OST__Eterna_Forest.mp3"
+	},	{
 		title = "The_Legend_of_Zelda_Breath_of_the_Wild_Korok_Forest_(Day).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\forest/The_Legend_of_Zelda_Breath_of_the_Wild_Korok_Forest_(Day).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/The_Legend_of_Zelda_Breath_of_the_Wild_Korok_Forest_(Day).mp3"
+	},	{
+		title = "when_you_reach_brinstar_(Super_Metroid).mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/forest/when_you_reach_brinstar_(Super_Metroid).mp3"
 	},
 }

@@ -1,6 +1,6 @@
 playlist = {
 	{
 		title = "Lumiose_City_(Ambient_Daytime)_-_Pokmon_Legends__Z-A_(OST).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\city/Lumiose_City_(Ambient_Daytime)_-_Pokmon_Legends__Z-A_(OST).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/city/Lumiose_City_(Ambient_Daytime)_-_Pokmon_Legends__Z-A_(OST).mp3"
 	},
 }

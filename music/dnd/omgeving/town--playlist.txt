@@ -1,15 +1,15 @@
 playlist = {
 	{
 		title = "Inazuma11_OST_1_-_Raimon_Junior_School_(anime_ver.).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\town/Inazuma11_OST_1_-_Raimon_Junior_School_(anime_ver.).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/town/Inazuma11_OST_1_-_Raimon_Junior_School_(anime_ver.).mp3"
 	},	{
 		title = "Inazuma11_OST_1_-_The_after_school_paradise_(Anime_ver.).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\town/Inazuma11_OST_1_-_The_after_school_paradise_(Anime_ver.).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/town/Inazuma11_OST_1_-_The_after_school_paradise_(Anime_ver.).mp3"
 	},	{
 		title = "Inazuma11_OST_1_-_Wind_and_adolescence_(Anime_ver.).mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\town/Inazuma11_OST_1_-_Wind_and_adolescence_(Anime_ver.).mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/town/Inazuma11_OST_1_-_Wind_and_adolescence_(Anime_ver.).mp3"
 	},	{
 		title = "Pokemon_ORAS_Soundtrack_-_Littleroot_Town.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\omgeving\town/Pokemon_ORAS_Soundtrack_-_Littleroot_Town.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/town/Pokemon_ORAS_Soundtrack_-_Littleroot_Town.mp3"
 	},
 }

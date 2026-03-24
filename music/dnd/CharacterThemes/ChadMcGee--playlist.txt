@@ -1,0 +1,6 @@
+playlist = {
+	{
+		title = "Chrono_Trigger_Magus_Battle_Music_Extended.mp3",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/CharacterThemes/ChadMcGee/Chrono_Trigger_Magus_Battle_Music_Extended.mp3"
+	},
+}

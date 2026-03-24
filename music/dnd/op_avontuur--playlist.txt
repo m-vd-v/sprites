@@ -1,6 +1,6 @@
 playlist = {
 	{
 		title = "Inazuma_11_OST_2_Inazuma_Caravan.mp3",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd\op_avontuur/Inazuma_11_OST_2_Inazuma_Caravan.mp3"
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/op_avontuur/Inazuma_11_OST_2_Inazuma_Caravan.mp3"
 	},
 }
