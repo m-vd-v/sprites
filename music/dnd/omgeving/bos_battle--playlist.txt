@@ -1,6 +1,6 @@
 playlist = {
 	{
-		title = "bosbattle.m4a",
-		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/bos_battle/bosbattle.m4a"
+		title = "bosbattle.wav",
+		url = "https://github.com/m-vd-v/sprites/raw/refs/heads/main/music/dnd/omgeving/bos_battle/bosbattle.wav"
 	},
 }
